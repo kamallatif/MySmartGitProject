@@ -1,0 +1,2 @@
+# MySmartGitProject
+My SmartGit Project
